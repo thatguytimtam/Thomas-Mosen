@@ -7,4 +7,4 @@ Creating Logical correlations and insights at Mosen Marketing.
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
 ### Data Analysis Projects
-[![](https://img.shields.io/badge/-🧬%20Evolution%20Du%20Taux%20De%20Fécondité-000)]("kaggle.com/thomasmosen/evolution-du-taux-de-f-condit-g-n-rale")
+[![](https://img.shields.io/badge/-🧬%20Evolution%20Du%20Taux%20De%20Fécondité-000)](https://kaggle.com/thomasmosen/evolution-du-taux-de-f-condit-g-n-rale)
